@@ -9,6 +9,7 @@ Name_of_the_variable = True (For boolean)
 **A print statement cannot have a string and an interger variable together**
 
 **The interger has to be converted to string using**
-'str(Name_of_the_variable)`
+
+`str(Name_of_the_variable)`
 
 E.g. - 
