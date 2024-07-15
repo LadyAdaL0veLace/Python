@@ -10,4 +10,5 @@ Eg. `print("Giraffe\nAcademy")`
 
 # Concatenation of strings
 Eg. `phrase = "Giraffe Academy"`
+
 `print(phrase + "is cool")`
