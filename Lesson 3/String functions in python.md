@@ -5,7 +5,7 @@
 2. To convert a string to upper case
    
    `print(phrase.upper())`
-3. To check is a given string is in upper case
+3. To check if a given string is in upper case
 
    `print(phrase.isupper())`
    
