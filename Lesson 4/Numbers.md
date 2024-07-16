@@ -13,6 +13,7 @@
 
    `print(5%3)`
 3. To print a number and string together
+   
    `my_num = 5`
 
    `print(str(my_num) + "is my favourite number)`
